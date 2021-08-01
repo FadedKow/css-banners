@@ -23,6 +23,7 @@ Image: https://cdn.discordapp.com/attachments/image_subdirect
 User: 621398185721724949
 Image: https://cdn.discordapp.com/attachments/835219442812190750/870496077441273897/c223078a1857d2496a40801410278dde_1.jpg
 */
+[data-user-id="621398185721724949"] .contents-2mQqc9 .username-1A8OIy:not(after) {font:0 Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif;} [data-user-id="621398185721724949"] .contents-2mQqc9 .username-1A8OIy::after {content:":wrldyeacat:";font-size:16px;vertical-align:-webkit-base}
 [data-user-id="621398185721724949"][class*="avatar"] {
     content:url(https://cdn.discordapp.com/emojis/826980883755696148.gif?v=1);
 }
