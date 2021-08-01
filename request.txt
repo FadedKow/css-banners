@@ -5,3 +5,6 @@ If the image violates the Discord Terms of Service or Community Guidelines, your
 User ID:
 Image URL:
 Indicator Color:
+
+Verification required before a request can be fulfilled. You must message me from the user id specified, as well as state your commit id.
+If the sent info fails to match, your pull request won't be accepted.
