@@ -1,0 +1,7 @@
+This file is the only file that Kee looks at when examining a pull request.
+If this file is formatted correctly, it's data is added to "custom.css"All pull requests are closed after examining, regardless if it passes or not.
+If the image violates the Discord Terms of Service or Community Guidelines, your image request will not pass.
+
+User ID:
+Image URL:
+Indicator Color:
